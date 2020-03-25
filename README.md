@@ -8,6 +8,11 @@
 # Install dependencies
 pipenv install
 
+pipenv shell
+
+# Install django
+pipenv install django
+
 cd pollster
 
 # Serve on localhost:8000
