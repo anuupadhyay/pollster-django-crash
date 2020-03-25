@@ -3,8 +3,8 @@
 > Python Django app to create polls with questions/choices
 
 ## Quick Start
-cd pollster-django-crash
 ``` bash
+cd pollster-django-crash
 # Install dependencies
 pip install pipenv
 
